@@ -14,12 +14,5 @@ public class App {
         SpringApplication.run(App.class, args);
     }
 
-    @Bean
-    ProductCatalog createMyProductCatalog () {
-        var catalog = new ProductCatalog(new ArrayListProductStorage());
 
-        catalog.createProduct("nice one", "nic edesc");
-
-        return catalog;
-    }
 }

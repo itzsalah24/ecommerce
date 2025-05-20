@@ -1,0 +1,15 @@
+pl\zedadra\ecommerce\App.class
+pl\zedadra\productcatalog\Product.class
+pl\zedadra\productcatalog\SqlProductStorage.class
+pl\zedadra\creditcard\CreditBelowThresholdException.class
+pl\zedadra\ecommerce\ProductCatalogController.class
+pl\zedadra\hello\App.class
+pl\zedadra\creditcard\NotEnoughMoneyException.class
+pl\zedadra\creditcard\CreditCantBeAssignedTwiceException.class
+pl\zedadra\productcatalog\ProductCatalog.class
+pl\zedadra\productcatalog\ProductStorage.class
+pl\zedadra\productcatalog\HashMapProductStorage.class
+pl\zedadra\productcatalog\ArrayListProductStorage.class
+pl\zedadra\creditcard\CreditCard.class
+pl\zedadra\ecommerce\CatalogConfiguration.class
+pl\zedadra\productcatalog\InvalidPriceException.class
