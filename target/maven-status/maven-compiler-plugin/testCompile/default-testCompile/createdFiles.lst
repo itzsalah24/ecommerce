@@ -2,7 +2,9 @@ pl\zedadra\creditcard\HelloTest.class
 pl\zedadra\productcatalog\HashMapProductStorageTest.class
 pl\zedadra\productcatalog\ProductCatalogTest.class
 pl\zedadra\creditcard\CreditCardTest.class
+pl\zedadra\ecommerce\sales\SalesHttpTest.class
 pl\zedadra\ecommerce\AppTest.class
+pl\zedadra\ecommerce\sales\SalesTest.class
 pl\zedadra\productcatalog\SqlProductStorageTest.class
 pl\zedadra\ecommerce\SqlProductStorageTest.class
 pl\zedadra\creditcard\NumberRepresentationTest.class

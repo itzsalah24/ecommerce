@@ -5,6 +5,11 @@ D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\creditcard\NotEnoughMoneyExcep
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\App.java
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\CatalogConfiguration.java
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\ProductCatalogController.java
+D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\sales\AcceptOfferCommand.java
+D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\sales\Offer.java
+D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\sales\SalesConfiguration.java
+D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\sales\SalesController.java
+D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\ecommerce\sales\SalesFacade.java
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\hello\App.java
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\productcatalog\ArrayListProductStorage.java
 D:\CP4-zedadra\ecommerce\src\main\java\pl\zedadra\productcatalog\HashMapProductStorage.java
