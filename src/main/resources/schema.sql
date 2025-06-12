@@ -5,4 +5,4 @@ CREATE TABLE `product_catalog_products` (
                                             cover VARCHAR(100),
                                             price DECIMAL(12, 2),
                                             PRIMARY KEY (id)
-)
+);
