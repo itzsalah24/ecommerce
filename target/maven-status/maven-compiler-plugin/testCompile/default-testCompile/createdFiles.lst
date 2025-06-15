@@ -1,10 +1,15 @@
 pl\zedadra\creditcard\HelloTest.class
-pl\zedadra\productcatalog\HashMapProductStorageTest.class
-pl\zedadra\productcatalog\ProductCatalogTest.class
+pl\zedadra\ecommerce\sales\OfferAcceptanceTest.class
+pl\zedadra\ecommerce\payu\PayUTest.class
+pl\zedadra\ecommerce\sales\offering\OfferCalculatorTest.class
 pl\zedadra\creditcard\CreditCardTest.class
+pl\zedadra\ecommerce\sales\cart\CartTest.class
 pl\zedadra\ecommerce\sales\SalesHttpTest.class
 pl\zedadra\ecommerce\AppTest.class
 pl\zedadra\ecommerce\sales\SalesTest.class
 pl\zedadra\productcatalog\SqlProductStorageTest.class
 pl\zedadra\ecommerce\SqlProductStorageTest.class
+pl\zedadra\ecommerce\sales\reservation\SpyPaymentGateway.class
+pl\zedadra\productcatalog\HashMapProductStorageTest.class
+pl\zedadra\productcatalog\ProductCatalogTest.class
 pl\zedadra\creditcard\NumberRepresentationTest.class

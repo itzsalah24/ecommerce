@@ -2,6 +2,11 @@ D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\creditcard\CreditCardTest.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\creditcard\HelloTest.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\creditcard\NumberRepresentationTest.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\AppTest.java
+D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\payu\PayUTest.java
+D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\cart\CartTest.java
+D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\OfferAcceptanceTest.java
+D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\offering\OfferCalculatorTest.java
+D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\reservation\SpyPaymentGateway.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\SalesHttpTest.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\Sales\SalesTest.java
 D:\CP4-zedadra\ecommerce\src\test\java\pl\zedadra\ecommerce\SqlProductStorageTest.java

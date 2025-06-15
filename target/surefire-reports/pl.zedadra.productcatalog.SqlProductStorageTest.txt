@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: pl.zedadra.productcatalog.SqlProductStorageTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! -- in pl.zedadra.productcatalog.SqlProductStorageTest
-pl.zedadra.productcatalog.SqlProductStorageTest.itSaveAndLoadProduct -- Time elapsed: 0.003 s <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! -- in pl.zedadra.productcatalog.SqlProductStorageTest
+pl.zedadra.productcatalog.SqlProductStorageTest.itSaveAndLoadProduct -- Time elapsed: 0.001 s <<< ERROR!
 java.lang.NullPointerException: Cannot invoke "pl.zedadra.productcatalog.Product.getId()" because "product" is null
 	at pl.zedadra.productcatalog.SqlProductStorageTest.itSaveAndLoadProduct(SqlProductStorageTest.java:18)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
